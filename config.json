@@ -1,0 +1,46 @@
+{
+  "channel_name": "Untold Mythology",
+  "channel_handle": "@untold_mythology_legends",
+  "niche": "Indian Mythology & Untold Ancient Legends",
+  "language": "Hinglish",
+  "voice": "hi-IN-MadhurNeural",
+  "voice_female": "hi-IN-SwaraNeural",
+  "speech_rate": "-2%",
+  "video_width": 1080,
+  "video_height": 1920,
+  "fps": 24,
+  "target_duration_sec": 75,
+  "output_dir": "output/ready_to_upload",
+  "temp_dir": "output/temp",
+  "ui_style": {
+    "top_badge": {
+      "font_size": 46,
+      "text_color": [245, 215, 110],
+      "accent_color": [255, 240, 180],
+      "bg_color": [20, 15, 25, 220],
+      "border_color": [212, 175, 55],
+      "top_y": 140
+    },
+    "subtitle_pill": {
+      "font_size": 44,
+      "text_color": [255, 255, 255],
+      "pill_bg": [18, 20, 28, 235],
+      "pill_border": [50, 55, 75],
+      "bottom_y": 1580,
+      "padding_x": 38,
+      "padding_y": 18
+    }
+  },
+  "topics_queue": [
+    "Who was Ravan, really?",
+    "Why Jaya and Vijaya became mortal enemies of Vishnu",
+    "Why Lord Shiva cursed Brahma",
+    "The secret power of Krishna's Sudarshana Chakra",
+    "Karna's tragic curse and real father",
+    "The mystery of Ashwatthama's immortality",
+    "Why Hanuman flew to eat the Sun",
+    "The lost submerged city of Dwarka",
+    "Who actually built the Ram Setu?",
+    "Why Parashurama fought against his own Guru"
+  ]
+}

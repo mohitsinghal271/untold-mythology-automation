@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .venv/
 *.tmp
+
+instagram_credentials.json
+ig_session.json
+*.session
+output/temp/
+temp_vs_audio/
+.env
