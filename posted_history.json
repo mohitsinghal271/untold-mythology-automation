@@ -1,7 +1,8 @@
 {
   "posted_topics": [
     "karna_secret",
-    "abhimanyu_chakravyuh"
+    "abhimanyu_chakravyuh",
+    "krishna_vow"
   ],
   "history": [
     {
@@ -19,8 +20,16 @@
       "cover": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/abhimanyu_chakravyuh/cover.jpg",
       "uploaded": false,
       "direct_upload_success": false
+    },
+    {
+      "timestamp": "2026-11-21T14:50:29.615486+00:00",
+      "topic": "krishna_vow",
+      "video": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/krishna_vow/krishna_vow.mp4",
+      "cover": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/krishna_vow/cover.jpg",
+      "uploaded": false,
+      "direct_upload_success": false
     }
   ],
-  "total_posted": 2,
-  "last_run": "2026-11-19T16:02:43.341558+00:00"
+  "total_posted": 3,
+  "last_run": "2026-11-21T14:50:29.615500+00:00"
 }
