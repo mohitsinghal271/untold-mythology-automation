@@ -2,7 +2,8 @@
   "posted_topics": [
     "karna_secret",
     "abhimanyu_chakravyuh",
-    "krishna_vow"
+    "krishna_vow",
+    "ashwatthama_curse"
   ],
   "history": [
     {
@@ -28,8 +29,16 @@
       "cover": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/krishna_vow/cover.jpg",
       "uploaded": false,
       "direct_upload_success": false
+    },
+    {
+      "timestamp": "2026-11-22T14:47:22.470892+00:00",
+      "topic": "ashwatthama_curse",
+      "video": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/ashwatthama_curse/ashwatthama_curse.mp4",
+      "cover": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/ashwatthama_curse/cover.jpg",
+      "uploaded": false,
+      "direct_upload_success": false
     }
   ],
-  "total_posted": 3,
-  "last_run": "2026-11-21T14:50:29.615500+00:00"
+  "total_posted": 4,
+  "last_run": "2026-11-22T14:47:22.470907+00:00"
 }
