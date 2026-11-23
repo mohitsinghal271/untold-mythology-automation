@@ -3,7 +3,8 @@
     "karna_secret",
     "abhimanyu_chakravyuh",
     "krishna_vow",
-    "ashwatthama_curse"
+    "ashwatthama_curse",
+    "eklavya_thumb"
   ],
   "history": [
     {
@@ -37,8 +38,16 @@
       "cover": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/ashwatthama_curse/cover.jpg",
       "uploaded": false,
       "direct_upload_success": false
+    },
+    {
+      "timestamp": "2026-11-23T18:34:33.311955+00:00",
+      "topic": "eklavya_thumb",
+      "video": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/eklavya_thumb/eklavya_thumb.mp4",
+      "cover": "/home/runner/work/untold-mythology-automation/untold-mythology-automation/output/ready_to_upload/eklavya_thumb/cover.jpg",
+      "uploaded": false,
+      "direct_upload_success": false
     }
   ],
-  "total_posted": 4,
-  "last_run": "2026-11-22T14:47:22.470907+00:00"
+  "total_posted": 5,
+  "last_run": "2026-11-23T18:34:33.311975+00:00"
 }
